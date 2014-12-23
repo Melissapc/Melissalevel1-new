@@ -1,0 +1,23 @@
+public class Calculator {
+	public static void main(String[] args) {
+	Calculator smart = new Calculator();
+		int answer=smart.add(8, 5);
+
+	System.out.println();
+	}
+	int multiply(int number1, int number2) {
+		return number1*number2;
+	}
+	int divide(int number3,int number4){
+		return number3/number4;
+		
+	}
+	int add(int number5,int number6){
+		return number5+number6;
+		
+	}
+	int subtract(int number7, int number8){
+		return number7-number8;
+		
+	}
+}
