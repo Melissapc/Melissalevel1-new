@@ -5,4 +5,10 @@
 <fullyQualifiedTypeName name="javax.swing.JLabel"/>
 <fullyQualifiedTypeName name="javax.swing.JButton"/>
 <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+<fullyQualifiedTypeName name="com.spun.util.database.SQLQuery.FromPart"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.Colors.Greens"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.Colors"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.Colors.Browns"/>
+<fullyQualifiedTypeName name="org.teachingextensions.logo.Tortoise"/>
 </qualifiedTypeNameHistroy>
